@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SophieFromm
-- 👀 I’m interested in Neuroscience, reward learning, psychosis
+- 👀 I’m interested in computational neuroscience, reward learning, psychosis
 - 🌱 I’m currently learning to use fmriPrep
 - 💞️ I’m looking to collaborate on computational modelling of learning behavior 
 - 📫 How to reach me: via sophie.fromm@charite.de
